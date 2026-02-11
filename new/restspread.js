@@ -20,7 +20,7 @@
 // console.log(add(12,2,3));
 
 // // let a=[1,2,3,4,4];
-// // int [f,a,c]=a;
+// // int [f,b,c]=a;
 // // console.log(f,b,c);//o/p=1,2,3
 
 // let a2=[1,2,3,4,4];
@@ -32,7 +32,6 @@
 // console.log(args);
 // }
 // let aee[]=1,2,3
-
 
 let even=(a)=>
 {
